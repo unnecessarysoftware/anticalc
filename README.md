@@ -8,3 +8,6 @@ Calculators...i frickin hate them.
 It works when a calculator is opened.When its open,a messagebox appears
 and says you are banned.Then the app is taskkilled and some cool music
 plays.
+# Why this isn't a exe?
+Because my dumbass couldn't figure this.
+I think you should install psutil in order to work flawlessly.
